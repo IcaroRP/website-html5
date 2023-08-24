@@ -1,2 +1,2 @@
-# website-html5
-Criação de um Website com a HTML5 para Atividade da Faculdade de Desenvolvimento Web
+# Criação de um Website com a HTML5
+Atividade para a materia de "Desenvolvimento web" Para produzir uma pagina puramente a linguagem HTML5. Não foi permitido o uso de tecnologias adicionais como CSS, JavaScript.
